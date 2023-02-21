@@ -1,4 +1,14 @@
 # Homework1
+In this code review; I have assessed all of code in the HTML and CSS, and made changes so that the code is easier to read from a Search engine optimization point of view. To do this, I changed all of the non-semantic elements 'div' to semantic elements such as 'header','section' and so forth.
+I have also checked to make sure when you press on a link, it goes to the intended area and fixed the bug where if you pressed 'search engine optimization' it would not jump down to the required area on the page.
+I have also looked through the CSS, and made changes where neccessary and cleaned up the code by making one 'subheading' for all the content to be based off rather than 3 individual bits of code all doing the same thing.
+
+Below is the Course Criteria, expectation of this project and the acceptance criteria. 
+
+
+
+
+
 01 HTML, CSS, and Git: Code Refactor
 
 Challenges in This Course
